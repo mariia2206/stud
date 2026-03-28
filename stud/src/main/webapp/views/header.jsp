@@ -12,10 +12,9 @@ pageEncoding="UTF-8"%>
 <nav class="navbar navbar-light bg-primary"> 
 <div class="container-fluid"> 
 <a class="navbar-brand" href="#"> 
-<img src="images/employees.png" alt="" width="80" 
-height="80" > 
+<img src="images/employees.png" alt="" width="80" height="80" > 
 </a> 
-<h2>Управление персоналом</h2> 
+<h2>Университет</h2> 
 </div> 
 </nav> 
 <!-- /Header --> 
